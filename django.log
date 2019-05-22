@@ -1,0 +1,16 @@
+2019-05-22 14:23:21,598	[INFO]	blog.views.post_list:16	info
+2019-05-22 14:23:21,599	[WARNING]	blog.views.post_list:17	warning
+2019-05-22 14:23:21,599	[ERROR]	blog.views.post_list:18	error
+2019-05-22 14:23:21,599	[CRITICAL]	blog.views.post_list:19	critical
+2019-05-22 14:23:24,445	[INFO]	blog.views.post_list:16	info
+2019-05-22 14:23:24,445	[WARNING]	blog.views.post_list:17	warning
+2019-05-22 14:23:24,445	[ERROR]	blog.views.post_list:18	error
+2019-05-22 14:23:24,445	[CRITICAL]	blog.views.post_list:19	critical
+2019-05-22 14:23:24,898	[INFO]	blog.views.post_list:16	info
+2019-05-22 14:23:24,898	[WARNING]	blog.views.post_list:17	warning
+2019-05-22 14:23:24,898	[ERROR]	blog.views.post_list:18	error
+2019-05-22 14:23:24,898	[CRITICAL]	blog.views.post_list:19	critical
+2019-05-22 14:28:11,366	[INFO]	blog.views.post_list:16	info
+2019-05-22 14:28:11,366	[WARNING]	blog.views.post_list:17	warning
+2019-05-22 14:28:11,367	[ERROR]	blog.views.post_list:18	error
+2019-05-22 14:28:11,367	[CRITICAL]	blog.views.post_list:19	critical
