@@ -14,3 +14,9 @@
 2019-05-22 14:28:11,366	[WARNING]	blog.views.post_list:17	warning
 2019-05-22 14:28:11,367	[ERROR]	blog.views.post_list:18	error
 2019-05-22 14:28:11,367	[CRITICAL]	blog.views.post_list:19	critical
+2019-05-24 14:48:36,435	[INFO]	blog.views.post_list:16	info
+2019-05-24 14:48:36,436	[WARNING]	blog.views.post_list:17	warning
+2019-05-24 14:48:36,437	[ERROR]	blog.views.post_list:18	error
+2019-05-24 14:48:36,438	[CRITICAL]	blog.views.post_list:19	critical
+
+
